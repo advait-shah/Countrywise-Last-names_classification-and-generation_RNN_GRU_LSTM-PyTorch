@@ -1,2 +1,1 @@
-# Last-names_classification_RNN_GRU_LSTM
-Last names_classification_RNN_GRU_LSTM
+## Countrywise Last-names_classification-and-generation_RNN_GRU_LSTM-PyTorch
